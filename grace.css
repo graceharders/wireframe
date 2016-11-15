@@ -1,0 +1,134 @@
+body{
+	background-color: #426895;
+	font-size: 20px;
+	font-family: 'Libre Franklin', sans-serif;
+	text-decoration: none;
+}
+.beginning{
+	background-color: #6881AA;
+	text-align: center;
+	padding: 10px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.nav a{
+	color: #B7777D;
+	text-decoration: none;
+}
+.name{
+	font-family: 'Pacifico', cursive;
+	color: black;
+	font-size: 40px;
+
+}
+.beginning img{
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 100%;
+	padding: 20px;
+}
+.nav ul{
+	list-style: none;
+	text-align: center;
+}
+.nav li{
+	display: inline-block;
+	padding-left: 60px;
+	padding-right: 60px;
+	color: #B7777D;
+}
+.about{
+	background-color:#8B9EBD;
+	text-align: center;
+	padding-top: 60px;
+	font-size: 30px;
+	padding-bottom: 60px;
+
+}
+.about-text{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.about p{
+	font-size: 18px;
+	line-height: 150%;
+}
+.first-pic, .second-pic, .third-pic{
+	display:inline-block;
+	width: 33.3333%;
+	background-size: cover;
+	position: relative;
+}
+.first-pic{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.second-pic{
+	width: 20%;
+	padding-top: 30px;
+	padding-left: 80px;
+}
+.third-pic{
+	width: 20%;
+	padding-top: 30px;
+	padding-left: 150px;
+}
+.first-pic img, .second-pic img, .third-pic img{
+	width: 100%;
+
+	padding: 0px;
+	margin: 0px;
+}
+
+.education{
+	background-color: #6881AA;
+	padding-top: 60px;
+	font-size: 30px;
+	padding-bottom: 60px;
+	padding: 20px;
+	padding-left: 50px;
+	display: inline-block;
+	width: 45%;
+
+}
+.education-text{
+	font-size: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.schools ul{
+	list-style: none;
+}
+.schools li{
+	font-size: 15px;
+}
+.projects{
+	background-color: #6881AA;
+	display: inline-block;
+	width: 45%;
+}
+.education-and-projects{
+	background-color: #6881AA;
+}
+.name2{
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px
+}
+.contact{
+	text-align: center;
+	padding: 20px;
+}
+.contact p{
+	display: inline-block;
+}
+.contact img{
+	display: inline-block;
+	width: 3%;
+	padding-right: 10px;
+	padding-left: 50px;
+}
